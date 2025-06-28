@@ -65,7 +65,7 @@ Pull requests are welcome! Let’s make **Vesture** a full-fledged e-commerce pl
 ## 🙌 Credits
 
 Made with 💙 using [Bolt](https://bolt.fun/)  
-Designed & Developed by **[Your Name]**
+Designed & Developed by **AJ**
 
 ---
 
