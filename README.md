@@ -58,7 +58,7 @@ Pull requests are welcome! Let’s make **Vesture** a full-fledged e-commerce pl
 
 ## 📷 Preview
 
-![Vesture Preview](https://vesture.vercel.app/preview.png) <!-- Optional: add your preview image here -->
+![Vesture Preview](./img/preview.png) <!-- Optional: add your preview image here -->
 
 ---
 
