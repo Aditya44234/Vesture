@@ -1,4 +1,4 @@
-# 👗 VESTURE
+# 🧶 VESTURE
 
 **Vesture** is a sleek and stylish online clothing and accessories platform built with pure HTML, CSS, and JavaScript — no frameworks, just clean frontend code! 🎯  
 Explore a smooth user experience where users can browse and shop clothing items based on their personal taste.
